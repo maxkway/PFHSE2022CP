@@ -1,4 +1,4 @@
-# Computational phisics
+# Computational physics
 
 [**Кондуит**](https://docs.google.com/spreadsheets/d/1LUn2h014Q3ASN_GiHRiB0_0QthpmMU9EgxLbvSeK7D8/edit#gid=506424766)
 

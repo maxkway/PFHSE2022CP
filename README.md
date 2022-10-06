@@ -19,4 +19,5 @@
 [Численные методы 2](https://vk.com/doc44301783_449656579?hash=aVUHScr15DzWzI2Pu2FN9eWZczFZ6VFBCQjr51Ha79P&dl=U8cmMQsqeQJGr3oHHz48SIEIJz191qkpASZ4MqtMy54)
 
 [Вержбицкий, Основы численных методов](https://libgen.rocks/get.php?md5=2cfbe9e668a79e67055968806963906a&key=910XACOB7MTGD3O2)
-[КАШУРНИКОВ. ЧИСЛЕННЫЕ МЕТОДЫ КВАНТОВОЙ СТАТИСТИКИ](https://libgen.rocks/get.php?md5=4c895c74ca15c7b51eabf9dc6b627fda&key=W28F8ZEFYM5ZYSXX)
+
+[Кашурников. ЧМ квантовой статистики](https://libgen.rocks/get.php?md5=4c895c74ca15c7b51eabf9dc6b627fda&key=W28F8ZEFYM5ZYSXX)

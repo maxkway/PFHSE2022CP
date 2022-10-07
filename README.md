@@ -13,7 +13,11 @@
 
 [Федоренко, Введение в вычислительную физику](http://booksshare.net/books/physics/fedorenko-rp/1994/files/vvedenievvichesleniyah1994.djvu)
 
+[Амосов, Вычислительные методы ](https://libgen.rocks/get.php?md5=178893bff76b3b1cbbe4829f5607f427&key=5YT6U43T5HNQMH8S)
+
 [Numerical recipies](http://numerical.recipes/book/book.html)
+
+[R.H. Landau, Computational Physics Problem Solving with Python](https://libgen.rocks/get.php?md5=bccda43674e4a93dee81c749eba8d2f7&key=G5F5DI668D94T1N7)
 
 [Калиткин, Численные методы 1,](https://vk.com/doc44301783_449656572?hash=uQTxbbX5AkVx1JLAr8RYCXZHzVXWooIHGYuoFgLS7iD&dl=7pVRc4exSgn1vzQBFw1I9QFOkp2gdkfbZ4EI9izGc50)
 [Численные методы 2](https://vk.com/doc44301783_449656579?hash=aVUHScr15DzWzI2Pu2FN9eWZczFZ6VFBCQjr51Ha79P&dl=U8cmMQsqeQJGr3oHHz48SIEIJz191qkpASZ4MqtMy54)
